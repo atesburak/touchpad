@@ -1,5 +1,5 @@
 # touchpad
-Nothing to see here. Like most other laptops mine also fails to disable my touchpad when typing. Instead of a full fetched solution that would fix the whole OS I took the lazy path of just speeding up my manual enable/disable process. For anyone suffering from the same issue you the steps are 
+Nothing to see here. Like most other laptops mine also fails to disable my touchpad when typing. Instead of a full fetched solution that would fix the whole OS I took the lazy path of just speeding up my manual enable/disable process. For anyone suffering from the same issue the steps are 
 
 ## install
 ```
